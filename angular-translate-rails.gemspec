@@ -1,12 +1,12 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "angular-translate-rails"
+  s.name        = "angular-translate-rails-tf"
   s.version     = "2.15.2"
   s.date        = Time.new.strftime("%Y-%m-%d")
-  s.authors     = ["Kanwaldeep Singh Arneja"]
-  s.email       = "kanwaldeep@gmail.com"
-  s.homepage    = "https://github.com/kdsingharneja/angular-translate-rails"
+  s.authors     = ["Kanwaldeep Singh Arneja", "Lee Iverson"]
+  s.email       = "leei@sociologi.ca"
+  s.homepage    = "https://github.com/leei/angular-translate-rails"
   s.summary     = "The Angular Translate JavaScript module ready to play with Rails."
   s.license     = "MIT"
   s.description = <<-EOF
