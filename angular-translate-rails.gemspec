@@ -2,7 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "angular-translate-rails"
-  s.version     = "2.6.0"
+  s.version     = "2.15.2"
   s.date        = Time.new.strftime("%Y-%m-%d")
   s.authors     = ["Kanwaldeep Singh Arneja"]
   s.email       = "kanwaldeep@gmail.com"
